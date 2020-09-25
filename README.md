@@ -6,3 +6,5 @@ Requirements for running the code:
 - Scipy
 - PyCuda
 - cuda-cffi (discontinued)
+
+The study results paper is the bulk of my undergraduate thesis and was written under the supervision of my adviser, Francis Paraan PhD
